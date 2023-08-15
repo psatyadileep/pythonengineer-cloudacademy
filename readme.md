@@ -30,6 +30,8 @@ This readme summarizes my learnings from Cloud Academy Python Engineer expert tr
  - methods enables us to effectively model concepts
  - Calling a method is how me run the method
 
-### Modelling a Concept
+### Modelling a Concept -> Code
 
  - Objects are Python's core building blocks
+ - In python , class definitions are used to create new object types
+ - Class definitions allow us to specify the code to run when the object is created in the constructore method
